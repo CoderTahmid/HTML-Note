@@ -1,0 +1,17 @@
+   <!-- Some semantic tags in HTML -->
+    <!-- Jei shob tag'r name porei bojha jay je, ogula ki kaje used hbe, tader e basically sementic tags bole -->
+    <!-- Egulo use korle code'r readibility bare, like, <header> tag'r moddhe header type information gula thakbe-->
+    <header> <!--Etar bhitor website'r heading e thala info gulai thakbe-->
+      <h1>My portfolio</h1>
+    </header>
+
+    <main>
+        <section>Education : Ideal College, Dhanmondi</section>
+        <section>Experience : Beginer</section>
+        <article>This why I started learning coding : </article> <!--Etar moddhe  article type content gula ashbe-->
+        <aside>This is an ad</aside> <!--ei code ta basically SEO ditect korbe nah, fole ei part e ad show korbe-->
+    </main>
+
+    <footer> <!--ekhane ekta website'r last e jei part gula thakbe, shegulai dite hbeh-->
+        <h3>My gmail : tahmid.ibne@gmail.com</h3>
+    </footer>

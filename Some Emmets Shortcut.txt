@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Some Emmets Shortcut</title>
+</head>
+<body>
+    <!-- li*4 will create 4 li-->
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+
+    <!-- ul>li*4 will create this-->
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
+
+    <!-- ul>li*4>a will create this-->
+    <ul>
+        <li><a href=""></a></li>
+        <li><a href=""></a></li>
+        <li><a href=""></a></li>
+        <li><a href=""></a></li>
+    </ul>
+
+    <!-- ul.dropdown will create this-->
+    <ul class="dropdown"></ul>
+
+    <!-- ul.drop#user will create this-->
+     <ul class="drop" id="user"></ul>
+
+    <!-- main>article.blog*3>h1{My Blog} will create this-->
+     <main>
+        <article class="blog">
+            <h1>My Blog</h1>
+        </article>
+        <article class="blog">
+            <h1>My Blog</h1>
+        </article>
+        <article class="blog">
+            <h1>My Blog</h1>
+        </article>
+     </main>
+</body>
+</html>

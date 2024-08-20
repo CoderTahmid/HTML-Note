@@ -1,0 +1,31 @@
+    <!-- Some designs in paragraph -->
+    <b>Tahmid</b>    
+    <br>
+    <u>Tahmid is king</u>
+    <br>
+    <i>kingg</i>
+    <br>
+    <big>This tag shows big texts</big>
+    <small>This tag shows small texts</small>
+    <br>
+    <p>Ideal College, Dhanmondi</p>
+    <hr> <!--eta hocche horizontal ruler, 2ta line ke horizontally alada kore dibe, and majhe ekta line niye asheb-->
+    <p>Dhaka City College</p>
+    <br>
+    <p>H<sub>2</sub>SO<sub>4</sub></p>
+    <br>
+    <p>(a+b)<sup>2</sup>=a<sup>2</sup>+2ab+b<sup>2</sup>
+    </p>
+    <br>
+    <p>
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque dolorem accusantium porro sed quam nesciunt quasi rem. Ab dicta fuga dolore? Provident cupiditate iusto, illum officiis modi assumenda doloremque quis.
+    </p>
+    <br>
+    <pre>
+        Lorem ipsum                    dolor sit amet 
+        consectetur adipisicing elit. Adipisci est iste qui 
+        
+        
+        temporibus rerum consequuntur ut excepturi placeat sit hic perspiciatis, at, nemo molestiae optio voluptatem animi nostrum voluptates porro!
+    </pre> <!-- jehetu HTML amder code e likha space and line gula count kore nah, kintu "pre" tag use korle ta count hbe-->
+    

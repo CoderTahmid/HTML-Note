@@ -1,0 +1,6 @@
+    <!-- Span Tag in HTML -->
+    <!--Span is also a container used for other HTML elements-->
+    <!--span hocche ekta inline element, mane eta website'r widh nibe joto tuk dorkar, not like the div je ekdom full width nibe-->
+    <span>
+        tahmid
+    </span>

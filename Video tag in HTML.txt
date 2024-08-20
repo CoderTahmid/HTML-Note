@@ -1,0 +1,4 @@
+ <!-- Video tag in HTML -->
+    <video src="/WA-VID-20230220-ebe5f22a.mp4" width="560" height="315" controls loop></video>
+      <!--ekhane "control" likha te video te play button, sound button etc etc ashcbe, rather ashbe nah-->
+      <!--ekhane loop dewa vid ta sesh hoile ta automatically abar play hbe, loop e-->

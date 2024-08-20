@@ -1,0 +1,13 @@
+    <!-- Anchor Tag in HTML -->
+        <a href="https://translate.google.com/">Click to open google tarnslate</a> <!-- emon kono ekta website'r link add kora hbe, tokhon take bola hoy absolute link -->
+        <br> <!-- br use kora hoy next line e jawar jonne, orthat er uprer code and nicher code ekta arektar upre ba niche thakbe-->
+        <a href="https://www.facebook.com/">Open Facebook</a>
+        <br>
+        <a href="page2.html">click to go page2</a> <!-- nijer PC te thaka page link korlam -->
+            <!-- ar emon nijer PC'r bhitore thaka page link korle take bole relative link -->
+        <br>
+        <a href="https://developer.mozilla.org/en-US/" target="_main">MDN website</a> <!--" target="_main" " dile link ta new tab e open hbe-->
+        <br>
+        <a href="https:google.com" target="_main"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/800px-Google_2015_logo.svg.png" alt="google" height="100px"></a>
+    <!-- Downloading any file through anchor tag -->
+        <a href="/notebookimage.jpg" download>click to download notebook image</a>

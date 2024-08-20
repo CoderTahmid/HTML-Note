@@ -1,0 +1,75 @@
+ <!-- Form in HTML -->
+  <!--Forms are used to collect data from the user-->
+  <form action="/action.php">
+
+    <!--taking text type input from the users-->
+    <input type="text" placeholder="User name"> <!--"Placeholder" diye oi input box e kono text ana hoy-->
+    <br>
+
+    <!--taking password type input from the user-->
+    <input type="password" name="password">
+    <br> 
+
+    <!--Taking selective input from the users-->
+    <h3>Select your class : </h3>
+    <label for="101">
+         <input type="radio" value="class XI" name="class" id="101">Class XI
+    </label>
+    <br>
+    <label for="102">
+        <input type="radio" value="Class XII" name="class" id="102"> Class XII
+    </label> 
+        <!--
+        Radio type diye muloto emon type create kora hoy, hoyto eta naile  oi button.
+        for example ekjon student kokhonoi class XII and class XI e ek sathe porte parbe nah
+        -->
+        <!--
+        ei label tag dewa te basically labh ta jeta hoilo sheta hocche website e print houa text gula "Class XI" "Class XII" teo click korle oi button e click hocche.
+        and ei label basically dewa hoy  oishob website'r jonne jegula te button gulo onek choto thake,
+        not neccesarry je oi gol britto tei click kora lgbe, oi text e click korleo jate kaj hoy.
+        -->
+    <h3>Select your favourite subject : </h3>
+    <label for="math">
+        <input type="checkbox" value="math">Math
+    </label>
+    <label for="chemistry">
+        <input type="checkbox" class="chemistry">Chemistry
+    </label>
+    <label for="physics">
+        <input type="checkbox" class="physics">Physics
+    </label>
+    <label for="c.science">
+        <input type="checkbox" class="c.science">Computer Science 
+    </label>
+    <br>
+    <br>
+    <b>Select your currently living city :</b>
+    <select name="city">
+        <option value="Dhaka">Dhaka</option>
+        <option value="Mymenshing">Mymenshing</option>
+        <option value="Rajhshahi">Rajhshahi</option>
+        <option value="Sylhet">Sylhet</option>
+    </select>
+    <br><br>
+
+    <!--Taking feedback from the users-->
+    <textarea placeholder="Please give your valuable feedback about us" cols="30" rows="10"></textarea>
+        <!--ei textarea basically use kora hoy feedback newar jonne-->
+    <br>
+    
+    <!--taking submit from the users-->
+    <input type="submit" value="Submit your form">
+</form>
+
+<!--Format of form-->
+<header>
+    ekhane heading realted things gula thakbe
+</header>
+
+<main>
+    ekhane webpage'r main content thakbe
+</main>
+
+<footer>
+    ekhane webpage'r footer content gula thakbe
+</footer>

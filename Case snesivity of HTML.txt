@@ -1,0 +1,4 @@
+Case snesivity of HTML
+
+HTML is not a case sensitive language,
+orthat <head> and <HEAD> 2 bhabei code run kora jabe.

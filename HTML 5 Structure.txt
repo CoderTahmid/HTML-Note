@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Blogs</title>
+    <link rel="stylesheet" href="/style.css">
+    <style>
+        nav ul li{
+            display: inline;
+            margin-right: 15px;
+        }
+        nav li a{
+            text-decoration: none;
+        }
+        footer{
+            margin-top: 30px;
+            text-align: center;
+        }   
+    </style>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="home.html">Home</a></li>
+                <li><a href="blogs.html">Block</a></li>
+                <li><a href="about.html">About</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <article>
+            <header>
+                <h2>My Trip to Mountains was charming</h2>
+                <p>Published on <time datetime="2029-05-27">May 27, 2029</time></p>
+            </header>
+            <figure>
+                <img width="100%" src="/blue-night-sky.jpg" alt="">
+                <figcaption>Blue night Sky In a Forest</figcaption>
+            </figure>
+            <section>
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi eum repellat neque atque unde? Culpa iure commodi adipisci debitis sit rem eligendi eum aliquam, totam accusantium minima, dolor maxime ipsam?
+                </p>
+            </section>
+            <section>
+                <h5>Trip Planning</h5>
+                <p>
+                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Natus mollitia sit voluptate cupiditate officiis cum placeat perspiciatis eligendi laudantium necessitatibus libero, sed dicta quisquam eaque accusantium dignissimos ullam velit inventore.
+                </p>
+                <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, doloremque rerum. Quia libero laboriosam quisquam beatae, cupiditate fugiat, amet quas id vero minus quidem facere dolores iure placeat. Veniam, rem?
+                </p>
+            </section>
+            <section>
+                <h5>Places to Visit</h5>
+                <p>
+                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Excepturi similique dolores nesciunt, nostrum sequi modi sunt rem tempora at, sed placeat inventore velit commodi ipsam quod laboriosam officia amet eius.
+                </p>
+                <p>
+                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Deleniti sit, ipsa unde minus possimus corporis. Dicta deleniti dolore magni nihil soluta molestiae iusto ab cum debitis fuga? Dolore, eos vel.
+                </p>
+            </section>
+            <footer>
+                <p>Tags: <a href="sky">Sky </a><a href="forst">Forest</a></p>
+            </footer>
+        </article>
+    </main>
+
+    <footer>
+        <p><small> &copy; 2029. All Rights Reserved</small></p>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="/Paomedia-Small-N-Flat-House.1024.png"> <!--website title'r pashe kono image add kora, ba icon adding-->
+    <title>My Full Website</title>
+</head>
+<body>
+    
+</body>
+</html>
